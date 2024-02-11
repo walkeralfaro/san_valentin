@@ -1,7 +1,7 @@
 .buttons{
   display: grid;
   gap: 24px;
-  grid-template-columns: repeat(auto-fit, minmax(332px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
 .btn{

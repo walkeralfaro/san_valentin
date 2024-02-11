@@ -3,8 +3,10 @@
   font: inherit;
 }
 
-*, *::before, *::after {
-  box-sizing: border-box;
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
 }
 
 img, video, svg {
@@ -13,9 +15,9 @@ img, video, svg {
   max-width: 100%;
 }
 
-html, body {
-  height: 100%;
-  margin: 0;
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
 }
 
 h1, h2, h3, h4, h5, h6 {

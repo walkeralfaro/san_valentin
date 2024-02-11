@@ -1,7 +1,13 @@
 footer{
   display: flex;
   justify-content: center;
-  padding-bottom: 24px;
+  position: absolute;
+  top: 96%;
+
+  width: 100%;
+  margin: 0;
+  font-size: 1.4rem;
+  
 }
 
 .footer_paragraph{
