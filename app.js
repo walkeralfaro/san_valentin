@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function(){
   const confettiValues = { 
     emojis: ['🌈', '💋', '😘', '😍', '🥰', '💖', '💗'],
     emojiSize: 100,
-    confettiNumber: 50,
+    confettiNumber: 30,
   }
   
   const jsConfetti = new JSConfetti();
