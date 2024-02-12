@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', function(){
   }
   
   function yesEvents() {
-    title.innerHTML = 'Sabias que ibas a aceptar 😘';
+    title.innerHTML = 'Sabía que ibas a aceptar 😘';
     no_btn.style.setProperty("display", "none");
     yes_btn.style.setProperty("display", "none");
     deleteMoshi();

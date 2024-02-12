@@ -9,7 +9,6 @@ body{
   margin: 0 auto;
   max-width: 90rem;
   position: relative;
-
 }
 
 .title {
@@ -24,7 +23,6 @@ body{
 }
 
 .container{
-
   background-image: url('./assets/heart_shape.svg');
   background-repeat: no-repeat;
   background-size: 30rem;
@@ -36,8 +34,6 @@ body{
   height: 100%;
 
   display: grid;
-
-
 }
 
 .moshi {
